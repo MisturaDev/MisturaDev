@@ -27,7 +27,9 @@ Currently learning and applying modern web and mobile development technologies t
 ## 💻 Skills
 
 **Frontend Development:** React, Angular, HTML, CSS, JavaScript, TypeScript  
+
 **Mobile Development:** React Native, Cordova, Ionic  
+
 **Backend & Tools:** Firebase, Supabase, WordPress REST API  
 **Version Control:** Git & GitHub
 
