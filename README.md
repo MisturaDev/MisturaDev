@@ -31,6 +31,7 @@ Currently learning and applying modern web and mobile development technologies t
 **Mobile Development:** React Native, Cordova, Ionic  
 
 **Backend & Tools:** Firebase, Supabase, WordPress REST API  
+
 **Version Control:** Git & GitHub
 
 ---
