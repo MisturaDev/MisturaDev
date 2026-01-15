@@ -38,4 +38,5 @@ Currently learning and applying modern web and mobile development technologies t
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
+- [Email](misturaaaishola@gmail.com)
 
