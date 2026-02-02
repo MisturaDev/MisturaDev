@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mistura Ishola
+# Hi, I’m Mistura Ishola
 
 <!--
 **MisturaDev/MisturaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Currently learning and applying modern web and mobile development technologies t
 
 ---
 
-## 💻 Skills
+## Skills
 
 **Frontend & Web:** HTML, CSS, JavaScript, TypeScript, Angular, Ionic, React.js
 
@@ -37,7 +37,7 @@ Currently learning and applying modern web and mobile development technologies t
 
 ---
 
-## 📫 Connect
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
 - [Email](misturaaaishola@gmail.com)
 
