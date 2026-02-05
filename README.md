@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 **Frontend Developer | Mobile App Developer**
 
-Passionate about building real-world applications that solve problems and deliver value. Currently enhancing my skills in modern web and mobile technologies through hands-on projects that create high-quality digital experiences.
+Passionate about building real-world applications that solve problems and deliver value. 
+
+Currently enhancing my skills in modern web and mobile technologies through hands-on projects that create high-quality digital experiences.
 
 ---
 
