@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-**Frontend Developer | Mobile App Developer**
+**Frontend Developer | Mobile Developer**
 
 Passionate about building real-world applications that solve problems and deliver value. 
 
