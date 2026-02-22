@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Passionate about building real-world applications that solve problems and deliver value. 
 
-Currently enhancing my skills in modern web and mobile technologies through hands-on projects that create high-quality digital experiences.
+Currently building responsive, user-focused web and mobile experiences using modern technologies and hands-on projects that deliver high-quality digital solutions.
 
 ---
 
