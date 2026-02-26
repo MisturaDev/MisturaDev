@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Mistura
 
-**Building projects · Delivering solutions**
+**Building Projects · Delivering Solutions**
 
 Frontend & Mobile Developer building real-world applications that solve problems, enhance user experiences and deliver value.
 
@@ -30,12 +30,6 @@ Frontend & Mobile Developer building real-world applications that solve problems
 **Backend & Databases:** Node.js, Supabase, Firebase, REST APIs  
 
 **Version Control & Collaboration:** Git & GitHub
-
----
-
-## GitHub Stats
-
-![Mistura's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisturaDev&show_icons=true&theme=radical)
 
 ---
 
