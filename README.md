@@ -37,6 +37,8 @@ Frontend & Mobile Developer building real-world applications that solve problems
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MisturaDev&show_icons=true)
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MisturaDev&layout=compact)
+
 ---
 
 ## Connect
