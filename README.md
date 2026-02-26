@@ -15,25 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Mistura
 
-**Frontend Developer | Mobile Developer**
+**Building projects · Delivering solutions**
 
-Passionate about building real-world applications that solve problems and deliver value. 
-
-Currently building responsive, user-focused web and mobile experiences using modern technologies and hands-on projects that deliver high-quality digital solutions.
+Frontend & Mobile Developer building real-world applications that solve problems, enhance user experiences and deliver value.
 
 ---
 
 ## Skills
 
-**Frontend & Web:** HTML, CSS, JavaScript, TypeScript, Angular, Ionic, React.js
+**Frontend & Web:** **Frontend:** React.js, Angular, TypeScript, JavaScript, HTML, CSS
 
-**Mobile & Cross-Platform:** React Native, Cordova
+**Mobile & Cross-Platform:** React Native, Ionic, Cordova, Expo
 
 **Backend & Databases:** Node.js, Supabase, Firebase, REST APIs  
 
 **Version Control & Collaboration:** Git & GitHub
 
+---
+
+## GitHub Stats
+
+![Mistura's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisturaDev&show_icons=true&theme=radical)
 
 ---
 
