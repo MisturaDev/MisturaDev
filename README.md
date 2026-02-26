@@ -33,6 +33,12 @@ Frontend & Mobile Developer building real-world applications that solve problems
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisturaDev&show_icons=true)
+
+---
+
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
 - [Email](misturaaaishola@gmail.com)
