@@ -24,7 +24,17 @@ Frontend & Mobile Developer building real-world applications that solve problems
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mistura%20Ishola-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mistura-ishola)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mistura%20Ishola-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mistura-ishola)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:misturaaaishola@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:misturaaaishola@gmail.com)
+
+
+
+- <a href="https://www.linkedin.com/in/mistura-ishola" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
+- <a href="mailto:misturaaaishola@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+</a>
 
