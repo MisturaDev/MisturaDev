@@ -20,9 +20,18 @@ Frontend & Mobile Developer building real-world applications that solve problems
 
 ## Connect with Me
 
-- <a href="https://www.linkedin.com/in/mistura-ishola" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/mistura-ishola" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:misturaaaishola@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/>
+  </a>
+</p>
+
+ <a href="https://www.linkedin.com/in/mistura-ishola" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-- </a> <a href="mailto:misturaaaishola@gmail.com">
+ </a> <a href="mailto:misturaaaishola@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/>
 </a>
 
