@@ -25,22 +25,11 @@ Frontend & Mobile Developer building real-world applications that solve problems
   <a href="https://www.linkedin.com/in/mistura-ishola" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:misturaaaishola@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mistura-ishola" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  <a href="mailto:misturaaaishola@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/>
-  </a>
-</p>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mistura-ishola" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>&nbsp;
-<a href="mailto:misturaaaishola@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/></a>
-</p>
 
