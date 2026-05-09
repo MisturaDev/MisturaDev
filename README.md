@@ -1,4 +1,4 @@
-# <h1>Hi, I'm Mistura Ishola</h1>
+<h1>Hi, I'm Mistura Ishola</h1>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&vCenter=true&width=700&lines=Frontend+%26+Mobile+Developer;Building+Projects+%C2%B7+Delivering+Solutions" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-Frontend & Mobile Developer building real-world applications that solve problems, enhance user experiences and deliver value.
+**Frontend & Mobile Developer building responsive, user-focused web and mobile applications that solve real-world problems and deliver value.**
 
 ---
 
@@ -18,8 +18,7 @@ Frontend & Mobile Developer building real-world applications that solve problems
 
 - **Backend & Databases:** Node.js, Express.js, MongoDB, Supabase, Firebase, REST APIs
 
-- **Version Control & Collaboration:** Git, GitHub, Problem Solving, Team Collaboration
-
+- **Version Control & Collaboration:** Git, GitHub, Team Collaboration, Problem Solving
 
 ---
 
@@ -34,6 +33,4 @@ Frontend & Mobile Developer building real-world applications that solve problems
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
-
-
 
