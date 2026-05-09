@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mistura Ishola</h1>
+<h1>Hi, I'm Mistura</h1>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&vCenter=true&width=700&lines=Frontend+%26+Mobile+Developer;Building+Projects+%C2%B7+Delivering+Solutions" alt="Typing SVG" />
