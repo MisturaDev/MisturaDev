@@ -1,12 +1,10 @@
-# <h1 align="center">Hi, I'm Mistura Ishola</h1>
+# <h1>Hi, I'm Mistura Ishola</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Frontend+%26+Mobile+Developer;Building+Projects+%C2%B7+Delivering+Solutions" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&vCenter=true&width=700&lines=Frontend+%26+Mobile+Developer;Building+Projects+%C2%B7+Delivering+Solutions" alt="Typing SVG" />
 </p>
 
 ---
-
-**Building Projects · Delivering Solutions**
 
 Frontend & Mobile Developer building real-world applications that solve problems, enhance user experiences and deliver value.
 
