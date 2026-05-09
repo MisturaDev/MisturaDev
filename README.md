@@ -8,7 +8,7 @@ Frontend & Mobile Developer building real-world applications that solve problems
 
 ## Skills
 
-**Frontend & Web:** **Frontend:** React.js, Angular, TypeScript, JavaScript, HTML, CSS
+**Frontend & Web:** React.js, Angular, TypeScript, JavaScript, HTML, CSS
 
 **Mobile & Cross-Platform:** React Native, Ionic, Cordova, Expo
 
@@ -28,5 +28,8 @@ Frontend & Mobile Developer building real-world applications that solve problems
 
 
 
-
+<p>
+<a href="https://www.linkedin.com/in/mistura-ishola" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="mailto:misturaaaishola@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/></a>
+</p>
 
