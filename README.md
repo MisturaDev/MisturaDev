@@ -8,13 +8,14 @@ Frontend & Mobile Developer building real-world applications that solve problems
 
 ## Skills
 
-**Frontend & Web:** React.js, Angular, TypeScript, JavaScript, HTML, CSS
+**Frontend & Web:** React.js, Next.js, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 
-**Mobile & Cross-Platform:** React Native, Ionic, Cordova, Expo
+**Mobile & Cross-Platform:** React Native, Expo, Ionic, Cordova
 
-**Backend & Databases:** Node.js, Supabase, Firebase, REST APIs  
+**Backend & Databases:** Node.js, Express.js, MongoDB, Supabase, Firebase, REST APIs
 
-**Version Control & Collaboration:** Git & GitHub
+**Version Control & Collaboration:** Git, GitHub, Problem Solving, Team Collaboration
+
 
 ---
 
