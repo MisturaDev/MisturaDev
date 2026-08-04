@@ -7,7 +7,7 @@
 
 ---
 
-**Frontend & Mobile Developer building responsive, user-focused web and mobile applications that solve real-world problems and deliver value.**
+**Frontend & Mobile Developer crafting responsive, user-focused web and mobile applications that solve real-world problems.**
 
 ---
 
