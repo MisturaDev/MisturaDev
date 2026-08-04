@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mistura+%F0%9F%91%8B;Frontend+%26+Mobile+Developer;Building+Projects+%C2%B7+Delivering+Solutions"
+    alt="Typing SVG"
+  />
+</p>
+
 <h1>Hi, I'm Mistura</h1>
 
 <p>
