@@ -5,12 +5,6 @@
   />
 </p>
 
-<h1>Hi, I'm Mistura</h1>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&vCenter=true&width=700&lines=Frontend+%26+Mobile+Developer;Building+Projects+%C2%B7+Delivering+Solutions" alt="Typing SVG" />
-</p>
-
 ---
 
 **Frontend & Mobile Developer building responsive, user-focused web and mobile applications that solve real-world problems and deliver value.**
